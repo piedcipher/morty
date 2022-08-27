@@ -11,7 +11,7 @@
 - There is an easy-to-access clipboard to view the copied stuff.
 - There are clear buttons as well.
 
-## Why I built this?
+## Why did I built this?
 
 Once I was testing my live-website and I wanted to run it locally in localhost for some tinkering and development. I couldn't get it to run because I couldn't tweak my code for localhost but copy-pasting sessionStorage from live-app would directly enable localhost one to work due to app-design. So, ended up manually copy-pasting sessionStorage. It worked! Hence I decided to build an extension to do the same.
 
