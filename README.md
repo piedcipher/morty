@@ -4,6 +4,13 @@
 
 <p align='center'><img src='https://user-images.githubusercontent.com/13456345/187047978-84074b78-4ae5-4b37-9fb4-469617bfdb0c.png' /></p>
 
+## Features
+
+- Quickly and Easily copy/paste data from localStorage or sessionStorage between different websites.
+- Copy data from local-Storage/session-Storage of one website, and paste data to local-Storage/session-Storage of another website.
+- There is an easy-to-access clipboard to view the copied stuff.
+- There are clear buttons as well.
+
 ## Install from Chrome-Web-Store
 
 - Coming Soon ...
