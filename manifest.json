@@ -1,7 +1,7 @@
 {
     "name": "Morty",
     "version": "0.0.1",
-    "description": "This extension transfers data of localStorage/sessionStorage across sites.",
+    "description": "This extension offers quick and hassle-free (1-click) copy/paste of localStorage/sessionStorage data across sites.",
     "manifest_version": 3,
     "author": "Tirth Patel",
     "action": {
