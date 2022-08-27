@@ -16,8 +16,7 @@
     ],
     "permissions": [
         "activeTab",
-        "storage",
-        "unlimitedStorage"
+        "storage"
     ],
     "options_page": "clipboard.html",
     "icons": {
