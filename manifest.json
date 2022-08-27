@@ -1,0 +1,28 @@
+{
+    "name": "Morty",
+    "version": "0.0.1",
+    "description": "This extension transfers data of localStorage/sessionStorage across sites.",
+    "manifest_version": 3,
+    "author": "Tirth Patel",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Morty"
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["background.js"]
+        }
+    ],
+    "permissions": [
+        "activeTab",
+        "storage",
+        "unlimitedStorage"
+    ],
+    "options_page": "clipboard.html",
+    "icons": {
+        "16": "./assets/_16.png",
+        "48": "./assets/_48.png",
+       "128": "./assets/_128.png"
+    }
+}
