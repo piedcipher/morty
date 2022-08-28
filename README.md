@@ -1,5 +1,9 @@
 <h1 align='center'>Morty</h1>
 
+<p align='center'><img src='https://img.shields.io/chrome-web-store/users/lioogclggbgabjfapimolnflapobhmak?color=%2376FF03' /> <img src='https://img.shields.io/chrome-web-store/v/lioogclggbgabjfapimolnflapobhmak?color=%230091EA' /> <img src='https://img.shields.io/chrome-web-store/rating/lioogclggbgabjfapimolnflapobhmak?color=%23FFEA00' /></p>
+
+<p align='center'><a href="https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a></p>
+
 <p align='center'>Quick and hassle-free :zap: (1-click) copy/paste :scissors: :clipboard: of localStorage/sessionStorage data :floppy_disk: across sites.<p>
 
 <p align='center'><img src='https://user-images.githubusercontent.com/13456345/187047978-84074b78-4ae5-4b37-9fb4-469617bfdb0c.png' /></p>
@@ -17,7 +21,9 @@ Once I was testing my live-website and I wanted to run it locally in localhost f
 
 ## Install from Chrome-Web-Store
 
-- Coming Soon ...
+- https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak
+
+<a href="https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
 
 ## Install from Source
 
