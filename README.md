@@ -30,6 +30,12 @@ Once I was testing my live-website and I wanted to run it locally in localhost f
 - Pin it if you want.
 - Done.
 
+## Demos
+
+https://user-images.githubusercontent.com/13456345/187053447-294fde9c-c0be-47e3-b261-8b52571aebff.mp4
+
+https://user-images.githubusercontent.com/13456345/187053449-21ee6ec3-7261-483f-b3d5-306432e8de2b.mp4
+
 ## Screenshots
 
 ![Screenshot at 2022-08-28 03-33-40](https://user-images.githubusercontent.com/13456345/187050466-40a87f61-1a2d-4f98-bbbc-0eb44434a62b.png)
