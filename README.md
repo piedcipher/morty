@@ -2,7 +2,7 @@
 
 <p align='center'><img src='https://img.shields.io/chrome-web-store/users/lioogclggbgabjfapimolnflapobhmak?color=%2376FF03' /> <img src='https://img.shields.io/chrome-web-store/v/lioogclggbgabjfapimolnflapobhmak?color=%230091EA' /> <img src='https://img.shields.io/chrome-web-store/rating/lioogclggbgabjfapimolnflapobhmak?color=%23FFEA00' /></p>
 
-<p align='center'><a href="https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a></p>
+<p align='center'><a href="https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak"><img src="https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png"></a></p>
 
 <p align='center'>Quick and hassle-free :zap: (1-click) copy/paste :scissors: :clipboard: of localStorage/sessionStorage data :floppy_disk: across sites.<p>
 
@@ -23,7 +23,7 @@ Once I was testing my live-website and I wanted to run it locally in localhost f
 
 - https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak
 
-<a href="https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a href="https://chrome.google.com/webstore/detail/morty/lioogclggbgabjfapimolnflapobhmak"><img src="https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png"></a>
 
 ## Install from Source
 
